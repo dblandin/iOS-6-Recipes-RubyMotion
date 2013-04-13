@@ -1,0 +1,43 @@
+# iOS 6 Recipes written for RubyMotion
+
+# Status
+
+ - 02 - **Hello World** -> Incomplete
+ - 03 - **Button Fun** -> Incomplete
+ - 04 - **Control Fun** -> Incomplete
+ - 05 - **Autosize** -> Incomplete
+ - 05 - **Swap** -> Incomplete
+ - 06 - **View Switcher** -> Incomplete
+ - 07 - **Pickers** -> Incomplete
+ - 08 - **Cells** -> Incomplete
+ - 08 - **Sections** -> Incomplete
+ - 08 - **Sections2** -> Incomplete
+ - 08 - **Simple Table** -> Incomplete
+ - 09 - **Nav** -> Incomplete
+ - 10 - **Seg Nav** -> Incomplete
+ - 10 - **Simple Storyboard** -> Incomplete
+ - 11 - **Presidents** -> Incomplete
+ - 12 - **AppSettings** -> Incomplete
+ - 13 - **Core Data Persistence** -> Incomplete
+ - 13 - **Persistence1** -> Incomplete
+ - 13 - **Persistence2** -> Incomplete
+ - 13 - **Persistence3** -> Incomplete
+ - 14 - **TinyPix** -> Incomplete
+ - 15 - **SlowWorker** -> Incomplete
+ - 15 - **State Lab** -> Incomplete
+ - 16 - **GLFun** -> Incomplete
+ - 16 - **QuartzFun** -> Incomplete
+ - 17 - **CheckPlease** -> Incomplete
+ - 17 - **PinchMe** -> Incomplete
+ - 17 - **Swipes1** -> Incomplete
+ - 17 - **Swipes2** -> Incomplete
+ - 17 - **TapTaps** -> Incomplete
+ - 17 - **TouchExplorer** -> Incomplete
+ - 18 - **WhereAmI** -> Incomplete
+ - 19 - **Ball** -> Incomplete
+ - 19 - **MotionMonitor1** -> Incomplete
+ - 19 - **MotionMonitor2** -> Incomplete
+ - 19 - **ShakeAndBreak** -> Incomplete
+ - 19 - **ShakeAndBreak - Motion Method** -> Incomplete
+ - 20 - **Camera** -> Incomplete
+ - 21 - **LocalizeMe** -> Incomplete
