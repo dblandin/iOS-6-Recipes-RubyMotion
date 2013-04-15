@@ -2,16 +2,16 @@
 
 # Status
 
- - 02 - **Hello World** -> Incomplete
- - 03 - **Button Fun** -> Incomplete
- - 04 - **Control Fun** -> Incomplete
- - 05 - **Autosize** -> Incomplete
- - 05 - **Swap** -> Incomplete
- - 06 - **View Switcher** -> Incomplete
- - 07 - **Pickers** -> Incomplete
- - 08 - **Cells** -> Incomplete
- - 08 - **Sections** -> Incomplete
- - 08 - **Sections2** -> Incomplete
+ - 02 - **Hello World** -> Complete
+ - 03 - **Button Fun** -> Complete
+ - 04 - **Control Fun** -> Complete
+ - 05 - **Autosize** -> Complete
+ - 05 - **Swap** -> Complete
+ - 06 - **View Switcher** -> Complete
+ - 07 - **Pickers** -> Partially Complete
+ - 08 - **Cells** -> Complete
+ - 08 - **Sections** -> Complete
+ - 08 - **Sections2** -> In Progress
  - 08 - **Simple Table** -> Incomplete
  - 09 - **Nav** -> Incomplete
  - 10 - **Seg Nav** -> Incomplete
